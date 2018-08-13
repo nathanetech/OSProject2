@@ -1,0 +1,3 @@
+﻿  OSProject2.cpp
+c:\users\technathan\documents\visual studio 2015\projects\osproject2\osproject2\osproject2.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OSProject2.vcxproj -> c:\users\technathan\documents\visual studio 2015\Projects\OSProject2\Debug\OSProject2.exe
